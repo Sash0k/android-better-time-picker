@@ -35,8 +35,7 @@ a dependency:
 
 ## Dependencies
 
-*You will need these fonts*
-    Roboto-Bold.ttf
+*You will need this font:*
     AndroidClockMono-Thin.ttf
 
 These can be fount in you android SDK folder or in the `assets/fonts` folder
@@ -48,7 +47,7 @@ These can be fount in you android SDK folder or in the `assets/fonts` folder
 
 *For a working implementation of this project see the `sample/` folder.*
 
-  0. Include the Android clock fonts in your `assets/fonts/` folder (create the folder if it doesn't already exist.  You can find these fonts in the `assets/fonts/` folder in this library or in your android SDK installation.
+  0. Include the Android clock fonts in your `assets/fonts/` folder (create the folder if it doesn't already exist).  You can find these fonts in the `assets/fonts/` folder in this library or in your android SDK installation.
 
         AndroidClockMono-Thin.ttf
 
