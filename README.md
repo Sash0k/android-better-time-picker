@@ -50,7 +50,6 @@ These can be fount in you android SDK folder or in the `assets/fonts` folder
 
   0. Include the Android clock fonts in your `assets/fonts/` folder (create the folder if it doesn't already exist.  You can find these fonts in the `assets/fonts/` folder in this library or in your android SDK installation.
 
-        Roboto-Bold.ttf
         AndroidClockMono-Thin.ttf
 
   1. Implement the appropriate Handler callbacks:
